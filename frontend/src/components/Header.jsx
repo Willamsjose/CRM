@@ -14,7 +14,7 @@ const Header = () => {
             </div>
           </div>
           <div>
-            <h1 className="text-xl font-bold">PedidoOK</h1>
+            <h1 className="text-xl font-bold">CRM</h1>
             <span className="text-sm opacity-90">Pedidos</span>
           </div>
         </div>
